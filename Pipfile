@@ -4,6 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+tweepy = "*"
+beautifulsoup4 = "*"
+scrapy = "*"
+huggingface = "*"
+transformers = "*"
+spacy = "*"
+matplotlib = "*"
+plotly = "*"
+flask = "*"
+dash = "*"
 
 [dev-packages]
 
